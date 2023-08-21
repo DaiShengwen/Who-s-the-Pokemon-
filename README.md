@@ -1,4 +1,2 @@
 # Who-s-the-Pokemon-
-Implement ResNet and DenseNet to do image classification regarding Pokemon.
-
-Used ResNet-101 to get the best result of the accuracy of 69.5%
+This project seeks to create an efficient classification model for hand-drawn images of Pokemon characters using convolutional neural networks (CNNs). We explored three model architectures: plain network, deep residual network, and densely connected network, and compared their performance in image classification. Our dataset comprises 1,000 images (64x64 resolution) for each of the 100 Pokemon characters, totaling 100,000 images. These were sourced from Google Pictures via Microsoft Azure. Among the architectures tested, the ResNet-101 model delivered the highest accuracy, recognizing Pokemon characters with a 69.54% success rate."
